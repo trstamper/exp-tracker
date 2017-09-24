@@ -1,0 +1,22 @@
+{
+  "name": "exp-tracker",
+  "version": "1.0.0",
+  "description": "Exp Tracker",
+  "main": "js/index.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trstamper/exp-tracker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trstamper/exp-tracker/issues"
+  },
+  "homepage": "https://github.com/trstamper/exp-tracker#readme"
+}
